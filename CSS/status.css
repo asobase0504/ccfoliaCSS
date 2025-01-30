@@ -1,20 +1,20 @@
-@import url("https://yudukiak.github.io/ccfoliaCSS/CSS/asset/-obs.css");
-@import url("https://yudukiak.github.io/ccfoliaCSS/CSS/asset/-scrollbar.css");
-@import url("https://yudukiak.github.io/ccfoliaCSS/CSS/asset/balloon.css");
-@import url("https://yudukiak.github.io/ccfoliaCSS/CSS/asset/board.css");
-@import url("https://yudukiak.github.io/ccfoliaCSS/CSS/asset/boardBackground.css");
-@import url("https://yudukiak.github.io/ccfoliaCSS/CSS/asset/chat.css");
-@import url("https://yudukiak.github.io/ccfoliaCSS/CSS/asset/cutIn.css");
-@import url("https://yudukiak.github.io/ccfoliaCSS/CSS/asset/edit.css");
-@import url("https://yudukiak.github.io/ccfoliaCSS/CSS/asset/header.css");
-@import url("https://yudukiak.github.io/ccfoliaCSS/CSS/asset/modal.css");
-@import url("https://yudukiak.github.io/ccfoliaCSS/CSS/asset/monitoring.css");
-@import url("https://yudukiak.github.io/ccfoliaCSS/CSS/asset/newDice.css");
-@import url("https://yudukiak.github.io/ccfoliaCSS/CSS/asset/scaling.css");
-@import url("https://yudukiak.github.io/ccfoliaCSS/CSS/asset/timer.css");
-@import url("https://yudukiak.github.io/ccfoliaCSS/CSS/asset/volume.css");
+@import url("https://asobase0504.github.io/ccfoliaCSS/CSS/asset/-obs.css");
+@import url("https://asobase0504.github.io/ccfoliaCSS/CSS/asset/-scrollbar.css");
+@import url("https://asobase0504.github.io/ccfoliaCSS/CSS/asset/balloon.css");
+@import url("https://asobase0504.github.io/ccfoliaCSS/CSS/asset/board.css");
+@import url("https://asobase0504.github.io/ccfoliaCSS/CSS/asset/boardBackground.css");
+@import url("https://asobase0504.github.io/ccfoliaCSS/CSS/asset/chat.css");
+@import url("https://asobase0504.github.io/ccfoliaCSS/CSS/asset/cutIn.css");
+@import url("https://asobase0504.github.io/ccfoliaCSS/CSS/asset/edit.css");
+@import url("https://asobase0504.github.io/ccfoliaCSS/CSS/asset/header.css");
+@import url("https://asobase0504.github.io/ccfoliaCSS/CSS/asset/modal.css");
+@import url("https://asobase0504.github.io/ccfoliaCSS/CSS/asset/monitoring.css");
+@import url("https://asobase0504.github.io/ccfoliaCSS/CSS/asset/newDice.css");
+@import url("https://asobase0504.github.io/ccfoliaCSS/CSS/asset/scaling.css");
+@import url("https://asobase0504.github.io/ccfoliaCSS/CSS/asset/timer.css");
+@import url("https://asobase0504.github.io/ccfoliaCSS/CSS/asset/volume.css");
 /* 固定化を流用 ※ステータスバーのみ流用不可 */
-@import url("https://yudukiak.github.io/ccfoliaCSS/CSS/status/main.css");
+@import url("https://asobase0504.github.io/ccfoliaCSS/CSS/status/main.css");
 
 /**************************
 　特定のキャラだけ表示（1からスタート）
