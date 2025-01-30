@@ -1,0 +1,3 @@
+div[aria-label*="のダイス ["] > [src*="_dice/"] {
+    display: none;
+}

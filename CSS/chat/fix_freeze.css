@@ -1,0 +1,9 @@
+.MuiList-root>div:nth-child(1) {
+  height: 100% !important;
+}
+
+.MuiList-root>div:nth-child(1)>div {
+  bottom: 0;
+  height: auto !important;
+  top: auto !important;
+}
